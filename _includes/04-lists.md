@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Favourite book The Secret
+- [ ] Favourite food Biryani
+- [ ] Favourite place My Home
